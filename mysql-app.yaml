@@ -34,11 +34,11 @@ spec:
             - name: MYSQL_ROOT_PASSWORD
               value: password
             - name: MYSQL_USER
-              value: user
+              value: sofe4630u
             - name: MYSQL_PASSWORD
-              value: SOFE4630U
+              value: TSCC
             - name: MYSQL_DATABASE
-              value: myDB
+              value: Covid19
           ports:
             - containerPort: 3306
               name: mysql
