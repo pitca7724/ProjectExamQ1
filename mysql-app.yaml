@@ -48,6 +48,6 @@ spec:
       volumes:
         - name: mysql-persistent-storage
           persistentVolumeClaim:
-            claimName: mysql-volumeclaim
+            claimName: mysql-volumeclaim1
 
         
